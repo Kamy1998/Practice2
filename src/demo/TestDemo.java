@@ -10,6 +10,12 @@ public class TestDemo {
 
 		System.out.println("This is from GitHub...");
 		
+		System.out.println("Practice 2...");
+		
+	}
+	
+	public void add (int a, int b) {
+		System.out.println(a + b);
 	}
 
 }
