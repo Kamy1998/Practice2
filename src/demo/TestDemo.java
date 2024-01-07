@@ -12,6 +12,10 @@ public class TestDemo {
 		
 		System.out.println("Practice 2...");
 		
+		System.out.println("Practice 3... pull process");
+		
+		System.out.println("Final Practice to do all");
+		
 	}
 	
 	public void add (int a, int b) {
